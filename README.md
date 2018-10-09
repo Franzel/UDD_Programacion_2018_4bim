@@ -1,4 +1,4 @@
-# UDD_Programacion_2018_2sem_2bim
+# UDD_Programacion_2018_2sem_4bim
 
 # Repositorio curso Programación Diseño UDD
 # Secciones 2 y 4
