@@ -1,4 +1,4 @@
-# UDD_Programacion 2018, Sección 1
+# UDD_Programacion 2018, Sección 2
 **Profesor Francisco Zamorano / Ayudante Josefa Méndez**
 
 
