@@ -6,7 +6,7 @@
 
 Codigo  | Entrega           | Fecha límite        | Hora límite | Carpeta Dropbox                                                            | Peso
 --      | --                | --                  | --          | --                                                                         | --  |
-E01     |clonArte           |mar. 16 de Octubre   | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/RG4jJyEZgBRWCaqtSV5p)| 10% |
+E01     |clonArte           |mar. 16 de Octubre   | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/Gp6sXZlTKrPuGpHtDmDh)| 10% |
 E02     |variArte           |mar. 23 de Octubre   | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/oHT8rhkAUQ6LLV0s4bPy)| 15% |
 E03     |hyperBrush         |mar. 06 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/hwBJ3SOdYAE2M8auazb0)| 20% |
 E04     |patronInteractivo  |mar. 13 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/6DWaouiyWdhKfRtgs4js)| 25% |
