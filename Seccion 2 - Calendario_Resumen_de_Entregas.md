@@ -7,11 +7,11 @@
 Codigo  | Entrega           | Fecha límite        | Hora límite | Carpeta Dropbox                                                            | Peso
 --      | --                | --                  | --          | --                                                                         | --  |
 E01     |clonArte           |mar. 16 de Octubre   | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/Gp6sXZlTKrPuGpHtDmDh)| 10% |
-E02     |variArte           |mar. 23 de Octubre   | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/oHT8rhkAUQ6LLV0s4bPy)| 15% |
-E03     |hyperBrush         |mar. 06 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/hwBJ3SOdYAE2M8auazb0)| 20% |
-E04     |patronInteractivo  |mar. 13 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/6DWaouiyWdhKfRtgs4js)| 25% |
-EX-ANTE |Examen Anteproyecto|mar. 20 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/JkegJqpaCM91qJIhCDcN)| --  |
-EX-FINAL|Examen FINAL       |mar. 27 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/u3B9gOee1TIEwW1kYfl2)| 30% |
+E02     |variArte           |mar. 23 de Octubre   | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/eaLlF273CA4QD9BxqV58)| 15% |
+E03     |hyperBrush         |mar. 06 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/v39wZllhwDl5OT3dsZBV)| 20% |
+E04     |patronInteractivo  |mar. 13 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/dengibZ4TUrYlksvFemc)| 25% |
+EX-ANTE |Examen Anteproyecto|mar. 20 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/S9OvuLzyjIP8iQC4NwKR)| --  |
+EX-FINAL|Examen FINAL       |mar. 27 de Noviembre | 10:00 am    |[esta carpeta Dropbox](https://www.dropbox.com/request/5K4ryokf4lq1d288ikAl)| 30% |
 
 
 ## Calendario de clases y ayudantías
