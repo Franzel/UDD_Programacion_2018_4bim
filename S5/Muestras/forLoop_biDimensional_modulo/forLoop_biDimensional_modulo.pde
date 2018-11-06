@@ -2,8 +2,6 @@ int mod = 3;
 
 void setup() {
   size(500, 500);
-
-  smooth();
 }
 
 void draw() {
