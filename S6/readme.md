@@ -4,12 +4,7 @@
 * Transformaciones de Matriz: `pushMatrix()`, `popMatrix()`, `translate()`, `rotate()`
 * Rotación vía trigonometría: seno y coseno
 * Incorporación de Imágenes y Fuentes
-* Arrays
-  * Arrays unidimensionales
-  * Arrays y For Loops
-  * Arrays bidimensionales
-* Arraylists
-* Strings
+
 
 * Hablaremos sobre el Examen, forma de trabajo en clases restantes y pre-entregas
 
